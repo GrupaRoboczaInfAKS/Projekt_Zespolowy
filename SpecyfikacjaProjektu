@@ -1,2 +1,9 @@
-  Celem projektu jest stworzenie programu symulujującego egzamin praktyczny konieczny do zdobycia prawa jazdy. 
-Program będzie imitował prawdziwe sytuacje na drodze oraz nadzorował przestrzeganie praw obowiązujących na drodze, na terenie Polski.
+  Celem projektu jest stworzenie programu symulujującego egzamin praktyczny konieczny do zdobycia prawa jazdy. Symulacja zostanie wykonana na silniku Unity. 
+Użytkownik będzie miał możliwośc sterowania pojazdem z widoku z pierszej osoby z wnętrza kabiny pojazdu za pomocą klawiatury / z możliwością użycia kierownicy podłączonej pod komputer. 
+Możliwość rozglądania się po kabinbie pojazdu będzie możliwa za pomocą myszki komputerowej / z możliwością użycia technologi VR (Virtual Reality). 
+  Program będzie imitował prawdziwe sytuacje na drodze oraz nadzorował przestrzeganie praw obowiązujących na drodze, na terenie Polski.
+Prawami jakie symulator będzie przestrzegał w zachwaniu gracza są między innym, zachowanie prędokości oodpowiedniej do terenu po którym porusza się pojazd, przestrzeganie znaków oraz sygnalizacji itp.
+Wszystkie te zasady poruszania się w symulacji będą opisane w skryptach, w języku C#.
+
+  Zespół tworzący symulacje składa się z trzech osób, z której każda następujące funkcje: modelowanie objektów wizualnych oraz wdrażanie realnych zasad drogowych do symulacji, tworzenie struktury skrzyżowań oraz efektów wizualnych, mechanika pojazdu oraz obsługujących skryptów symulacji.
+Medium komunikacyjnym zespolu jest Skype.  
