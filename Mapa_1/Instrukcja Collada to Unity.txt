@@ -1,0 +1,14 @@
+Unity:
+
+1. W otwartej scenie do folderu "Assets" nale¿y przeci¹gn¹æ i upuœciæ 
+plik .dae
+
+2. Do tego samego folderu nale¿y przenieœæ folder materials, zawieraj¹cy
+tekstury dla mapy.
+	- jeœli folder o tej nazwie ju¿ istnieje nale¿y "dokleiæ tekstury"
+
+3. Aplikacja tekstur - klikamy na dodany wg. punktu 1 element, 
+w inspektorze odszukujemy wartoœæ "Materials" i dla pola
+"Material naming" wybieramy wartoœæ :
+"Model Name + Model's Material"
+Poni¿ej klikamy apply.
